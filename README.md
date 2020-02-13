@@ -1,5 +1,4 @@
 # Predict IMDB movie rating
-Project inspired by Chuan Sun work without Scrappy
 
 Main question : How can we tell the greatness of a movie before it is released in cinema?
 
@@ -11,7 +10,7 @@ python3 parser.py nb_elements
 ## Second Part - Data Analysis
 The second part is to analyze the dataframe and observe correlation between variables. For example, are the movie awards correlated to the worlwide gross ? Does the more a movie is a liked, the more the casting is liked ? See the jupyter notebook file.
 
-Correlation Matrix
+### Correlation Matrix
 ![Capture](https://user-images.githubusercontent.com/32996653/74405070-3ca5b900-4e52-11ea-9188-4998e3e708c8.PNG)
 
 As we can see in the pictures above, the imdb score is correlated to the number of awards and the gross but not really to the production budget and the number of facebook likes of the casting.
