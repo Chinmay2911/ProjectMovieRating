@@ -24,3 +24,4 @@ What's funny is that the popularity of the third most famous actor is more impor
 Machine Learning to predict the IMDB score with the meaningful variables.
 Using a Random Forest algorithm (500 estimators).
 
+![Capture2](https://user-images.githubusercontent.com/32996653/74405194-7f679100-4e52-11ea-9931-667985f06330.PNG)
